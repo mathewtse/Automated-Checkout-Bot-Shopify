@@ -8,9 +8,12 @@ Orders are executed in a similar fashion to humans, minimizing the risk of bot d
 
 1. Create a new environment on Anaconda Navigator - let's call it buy_bot
 2. Open terminal and type in the following:
-   conda activate buy_bot
-   conda install selenium
-   conda install -c conda-forge python-chromedriver-binary
+
+```bash
+conda activate buy_bot
+conda install selenium
+conda install -c conda-forge python-chromedriver-binary
+```   
 3. Run the program in JupyterLab
 
 
