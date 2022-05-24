@@ -1,7 +1,7 @@
 # Automated Checkout Bot for Shopify Checkout Pages
 
 This bot reads information from a CSV file and uses the information to automatically place orders on the Shopify default checkout pages.
-Orders are executed in a similar fashion to humans, minimizing the risk of bot detection.
+Orders are executed in a similar fashion to humans, minimizing the risk of bot detection.<br /> <br />
 The point of this bot is to allow e-commerce dropshippers to space out their order fulfillment to prevent companies from knowing that they are dropshipping their products.
 
 ## Run Instructions: 
@@ -10,7 +10,7 @@ The point of this bot is to allow e-commerce dropshippers to space out their ord
 2. Open terminal and type in the following:
 
 ```bash
-conda activate buying_bot
+conda activate buying_bot 
 conda install selenium
 conda install -c conda-forge python-chromedriver-binary
 ```   
