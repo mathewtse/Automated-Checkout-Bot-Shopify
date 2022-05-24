@@ -6,11 +6,11 @@ Orders are executed in a similar fashion to humans, minimizing the risk of bot d
 
 ## Run Instructions: 
 
-1. Create a new environment on Anaconda Navigator - let's call it buy_bot
+1. Create a new environment on Anaconda Navigator. Name it buying_bot
 2. Open terminal and type in the following:
 
 ```bash
-conda activate buy_bot
+conda activate buying_bot
 conda install selenium
 conda install -c conda-forge python-chromedriver-binary
 ```   
