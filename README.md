@@ -1,8 +1,8 @@
-# Automated-Checkout-Bot-Shopify
+# Automated Checkout Bot for Shopify Checkout Pages
 
 This bot reads information from a CSV file and uses the information to automatically place orders on the Shopify default checkout pages.
 Orders are executed in a similar fashion to humans, minimizing the risk of bot detection.
-
+The point of this bot is to allow e-commerce dropshippers to space out their order fulfillment to prevent companies from knowing that they are dropshipping their products.
 
 ## Run Instructions: 
 
